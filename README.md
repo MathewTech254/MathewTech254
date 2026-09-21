@@ -1,31 +1,48 @@
-# MathewTech254
+<div align="center">
+
+# MATHEWTECH254
 
 ### Full-Stack Software Engineer | Product Builder | Computer Science Student
 
 **Building production-ready software from Kenya for the world.**
 
-[GitHub](https://github.com/MathewTech254) · [Portfolio](https://my-portfolio-brown-delta-9lw7vxht8p.vercel.app/) · [Email](mailto:mathewtech200@gmail.com)
+<a href="https://github.com/MathewTech254">
+<img src="https://img.shields.io/badge/GitHub-MathewTech254-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://my-portfolio-brown-delta-9lw7vxht8p.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mathewtech200@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=850&lines=Full-Stack+Software+Engineer;Building+Production-Ready+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;PostgreSQL+%7C+MongoDB+%7C+Prisma;Payment+Integrations+%7C+SaaS+%7C+System+Architecture;Building+from+Kenya+for+the+World" alt="Typing SVG"/>
+
+</div>
 
 ---
 
 ## About Me
 
-I'm Mathew, a Computer Science student and full-stack software developer from Kenya.
+I'm **Mathew**, a Computer Science student and full-stack software developer from **Kenya**.
 
 I build complete software systems across the frontend, backend, database, integrations and deployment layers.
 
-My focus is on turning ideas into practical products rather than building projects that only exist as demonstrations.
+My focus is turning ideas into practical products rather than building projects that only exist as demonstrations.
 
-### Areas I work with
+### What I Work On
 
-* Full-stack web development
-* Backend engineering
-* REST API development
+* Full-stack web applications
+* Backend engineering and APIs
+* SaaS platforms
+* Business management systems
 * Database architecture
-* SaaS applications
 * Payment integrations
 * Authentication and authorization
-* Business management systems
 * AI-powered applications
 * System architecture
 * Automation
@@ -35,7 +52,7 @@ My focus is on turning ideas into practical products rather than building projec
 
 ## Current Mission
 
-Build software that solves real problems and can operate in the real world.
+> **Build software that solves real problems and can operate in the real world.**
 
 My current interests sit around:
 
@@ -51,9 +68,7 @@ My current interests sit around:
 
 KaziOS is a business management platform being developed around the needs of modern businesses.
 
-The platform is designed to bring multiple business operations into a connected system.
-
-### Core areas
+### Core Areas
 
 * Business dashboard
 * Point of sale
@@ -107,9 +122,9 @@ TicketHub is a Kenyan-focused event ticketing platform designed to handle the co
 
 Mathew Tech is my personal technology platform where I build, experiment with and deploy software products and integrations.
 
-### Work includes
+### Highlights
 
-* Payment integrations
+* Paystack integration
 * API development
 * Modern web applications
 * Responsive interfaces
@@ -136,9 +151,9 @@ Devlnsight is a platform where I experiment with software engineering ideas, API
 
 # Payment Integration
 
-I've worked with real payment infrastructure through Paystack integrations across multiple projects.
+I've worked with real payment infrastructure through **Paystack** integrations across multiple projects.
 
-My payment implementation experience includes:
+### Payment Experience
 
 * Checkout integration
 * Transaction initialization
@@ -151,126 +166,146 @@ My payment implementation experience includes:
 * Business logic triggered by payments
 * Payout workflows
 
-Projects involving payment integrations include:
+### Projects Using Payment Infrastructure
 
-* KaziOS
-* TicketHub
-* Mathew Tech
-* Devlnsight
+`KaziOS` · `TicketHub` · `Mathew Tech` · `Devlnsight`
 
 ---
 
 # Technology Stack
 
-## Frontend
+### Frontend
 
-`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Vite`
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite" />
+</p>
 
-## Backend
+### Backend
 
-`Node.js` `Express` `Python` `PHP`
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
+</p>
 
-## Databases
+### Databases & Infrastructure
 
-`PostgreSQL` `MongoDB` `MySQL`
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,redis" />
+</p>
 
-## Data & Backend Infrastructure
+### Development & Deployment
 
-`Prisma` `Redis` `REST APIs` `Webhooks`
-
-## Payments
-
-`Paystack`
-
-## Development
-
-`Git` `GitHub` `VS Code` `Docker` `Linux`
-
-## Deployment
-
-`Vercel` `Docker` `Linux`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel" />
+</p>
 
 ---
 
 # Engineering Focus
 
-| Area         | Focus                                         |
-| ------------ | --------------------------------------------- |
-| Frontend     | React, Next.js, TypeScript                    |
-| Backend      | Node.js, Express, APIs                        |
-| Databases    | PostgreSQL, MongoDB, MySQL                    |
-| Architecture | Scalable application design                   |
-| SaaS         | Multi-user and business platforms             |
-| Payments     | Paystack and transaction systems              |
-| Security     | Authentication, authorization and secure APIs |
-| AI           | AI-powered applications and automation        |
-| DevOps       | Deployment, Docker and Linux                  |
-| Systems      | Backend architecture and system design        |
+| Area           | Technologies / Focus                       |
+| -------------- | ------------------------------------------ |
+| Frontend       | React, Next.js, TypeScript                 |
+| Backend        | Node.js, Express, APIs                     |
+| Databases      | PostgreSQL, MongoDB, MySQL                 |
+| ORM            | Prisma                                     |
+| Infrastructure | Redis, Docker, Linux                       |
+| Payments       | Paystack                                   |
+| Architecture   | Scalable application design                |
+| Security       | Authentication, authorization, secure APIs |
+| AI             | AI-powered applications and automation     |
+| Deployment     | Vercel, Docker, Linux                      |
 
 ---
 
 # How I Build
 
-I approach software development as a complete product lifecycle:
-
 ```text
-Idea
-  |
-  v
-Requirements
-  |
-  v
-Architecture
-  |
-  v
-UI / UX
-  |
-  v
-Frontend
-  |
-  v
-Backend
-  |
-  v
-Database
-  |
-  v
-Integrations
-  |
-  v
-Testing
-  |
-  v
-Security
-  |
-  v
-Deployment
-  |
-  v
-Production
+                        IDEA
+                         |
+                         v
+                    REQUIREMENTS
+                         |
+                         v
+                     ARCHITECTURE
+                         |
+                         v
+                      UI / UX
+                         |
+                         v
+                  FRONTEND + BACKEND
+                         |
+                         v
+                      DATABASE
+                         |
+                         v
+                    INTEGRATIONS
+                         |
+                         v
+                       TESTING
+                         |
+                         v
+                      SECURITY
+                         |
+                         v
+                     DEPLOYMENT
+                         |
+                         v
+                     PRODUCTION
 ```
 
-The objective isn't simply to make something work.
+I don't just aim to make software work.
 
-The objective is to build something that can be maintained, extended and eventually used by real people.
+I aim to build systems that can be maintained, extended and used by real people.
 
 ---
 
-# Current Areas of Growth
+# GitHub Statistics
 
-* Advanced backend architecture
-* System design
-* Distributed systems
-* Cloud and DevOps
-* Cybersecurity
-* Database architecture
-* AI application development
-* Production software engineering
-* Open-source collaboration
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MathewTech254&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=MathewTech254&theme=tokyonight&hide_border=true&mode=weekly"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathewTech254&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MathewTech254&theme=tokyo-night&hide_border=true&area=true&custom_title=MathewTech254%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MathewTech254/MathewTech254/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MathewTech254/MathewTech254/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MathewTech254/MathewTech254/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
+
+</div>
 
 ---
 
 # Building From Kenya
+
+<div align="center">
+
+### Kenya → Africa → World
+
+</div>
 
 I'm interested in building technology that works for African users and businesses while maintaining engineering standards that can support global products.
 
@@ -288,34 +323,17 @@ Areas that particularly interest me include:
 
 ---
 
-# GitHub
+# Current Areas of Growth
 
-My GitHub is where I document the systems I'm building, experiments I'm running and technologies I'm learning.
-
-**GitHub:** https://github.com/MathewTech254
-
-GitHub's native contribution graph on this profile is the source of truth for my contribution activity, rather than relying on third-party statistics images.
-
----
-
-# What I'm Building Toward
-
-```text
-                    SOFTWARE ENGINEERING
-                            |
-          +-----------------+-----------------+
-          |                 |                 |
-          v                 v                 v
-         SaaS             FinTech             AI
-          |                 |                 |
-          +-----------------+-----------------+
-                            |
-                            v
-                    AFRICAN TECHNOLOGY
-                            |
-                            v
-                     GLOBAL PRODUCTS
-```
+* Advanced backend architecture
+* System design
+* Distributed systems
+* Cloud and DevOps
+* Cybersecurity
+* Database architecture
+* AI application development
+* Production software engineering
+* Open-source collaboration
 
 ---
 
@@ -323,35 +341,36 @@ GitHub's native contribution graph on this profile is the source of truth for my
 
 I'm interested in collaborating on projects involving:
 
-* JavaScript and TypeScript
-* React and Next.js
-* Node.js
-* Backend engineering
-* SaaS
-* FinTech
-* AI applications
-* Developer tools
-* African technology
-* Open-source software
-
-For collaboration or opportunities:
-
-**Email:** [mathewtech200@gmail.com](mailto:mathewtech200@gmail.com)
+`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `SaaS` `FinTech` `AI` `Developer Tools` `Open Source`
 
 ---
 
-# Contact
+# Connect With Me
 
-**GitHub:** https://github.com/MathewTech254
+<div align="center">
 
-**Portfolio:** https://my-portfolio-brown-delta-9lw7vxht8p.vercel.app/
+<a href="https://github.com/MathewTech254">
+<img src="https://img.shields.io/badge/GitHub-MathewTech254-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Email:** [mathewtech200@gmail.com](mailto:mathewtech200@gmail.com)
+<a href="https://my-portfolio-brown-delta-9lw7vxht8p.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-MathewTech254-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:mathewtech200@gmail.com">
+<img src="https://img.shields.io/badge/Email-mathewtech200%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## MathewTech254
+<div align="center">
 
-**Full-Stack Software Engineer**
+### "Build it. Ship it. Improve it."
+
+**MathewTech254 — Full-Stack Software Engineer**
 
 **Building from Kenya for the world.**
+
+</div>
