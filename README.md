@@ -27,6 +27,7 @@
 ---
 
 ## About Me
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 I'm **Mathew**, a Computer Science student and full-stack software developer from **Kenya**.
 
@@ -49,17 +50,100 @@ My focus is turning ideas into practical products rather than building projects 
 * Cybersecurity
 
 ---
+## 📊 Profile Stats
 
-## Current Mission
+<div align="center">
 
-> **Build software that solves real problems and can operate in the real world.**
+  <table align="center">
+    <tr>
+      <td><b>👀 Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+    <tr>
+<td>
+  <a href="https://hits.sh/github.com/MathewTech254/">
+    <img
+      src="https://hits.sh/github.com/MathewTech254.svg?style=flat-square&label=Profile%20Views&color=0EA5E9"
+      alt="GitHub Profile Views"
+    />
+  </a>
+</td>
+```
+      <td>
+        <img src="https://img.shields.io/github/followers/MathewTech254?style=social" alt="GitHub followers" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/github/stars/MathewTech254?style=social" alt="GitHub stars" />
+      </td>
+      <td>
+        <img src="https://awesome.re/badge.svg" alt="Awesome badge" />
+      </td>
+    </tr>
+  </table>
 
-My current interests sit around:
+  [![Kenya Developer Ranking](https://user-badge.committers.top/kenya_public/MathewTech254.svg)](https://user-badge.committers.top/kenya_public/MathewTech254)
 
-**Software Engineering + SaaS + FinTech + AI + African Technology**
+</div>
 
----
+## 🖥️ GitHub Activity
 
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MathewTech254&theme=github_dark"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+
+  <br/>
+
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api?username=MathewTech254&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=MathewTech254&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+
+  <br/>
+
+  <img
+    width="49%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MathewTech254&layout=donut&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most Used Programming Languages"
+  />
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MathewTech254&theme=github_dark&utc_offset=3"
+    alt="GitHub Productive Time"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://ghchart.rshah.org/0EA5E9/MathewTech254"
+    alt="GitHub Contribution Calendar"
+    width="100%"
+  />
+
+</div>
+
+### 3D Contribution Graph
+
+<div align="center">
+
+  <img
+    src="https://github.com/MathewTech254/MathewTech254/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
+    alt="3D GitHub Contribution Graph"
+    width="100%"
+  />
+
+</div>
 # Featured Projects
 
 ## KaziOS
