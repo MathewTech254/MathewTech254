@@ -26,6 +26,12 @@
 
 ---
 
+## Support My Work
+
+If you find my projects useful, consider supporting my development journey. Your contribution helps me build and maintain useful software.
+
+[![Support My Work — Paystack](https://img.shields.io/badge/♡-Support_My_Work_—_Paystack-00C3F7?style=for-the-badge&logoColor=white)](https://paystack.shop/pay/support-mathew)
+
 ## About Me
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
